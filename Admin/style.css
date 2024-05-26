@@ -1,0 +1,23 @@
+.not{
+    margin-right: 150px;
+}
+
+.h2-text {
+    height: 100%;
+}
+
+.table-btn{
+    display: flex !important;
+    justify-content: space-between;
+}
+
+.table-btns{
+    width: 40% !important;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.col-btn {
+    width: 100px !important;
+}
